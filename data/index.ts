@@ -173,8 +173,8 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Cyber Security Engineer Internship",
+      desc: "Regularly tested web and mobile apps for security flaws, built tools in Python and Bash to find vulnerabilities, used Sonarqube and Fortify for secure coding, and advised teams on security best practices. Used Burp Suite, OWASP ZAP, Metasploit, Nessus, Nmap, Python, and Bash.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
